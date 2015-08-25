@@ -1,6 +1,8 @@
 **STOP! You’re automating too much!** (and other tales from the field)
 
-Test automation has many advantages. It is a useful but imperfect practice with limitations that are hard to anticipate in a new project. There are many questions that teams find themselves asking throughout a project’s lifecycle:
+Functional test automation has many advantages, but operating at scale highlights various limitations that are hard to anticipate. A wide range of questions are discussed as well as some patterns and practices that will make implementing functional test automation in a team easier.
+
+Questions discussed include:
 
 * How do I get started?
 * What should I automate?
